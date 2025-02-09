@@ -10,7 +10,8 @@ I’m a second-year student at BSUIR, passionate about AI and software developme
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdansemchenko&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bogdansemchenko&layout=compact&theme=radical)
+
 
 ### 📫 Contact
 
